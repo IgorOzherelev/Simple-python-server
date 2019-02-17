@@ -1,1 +1,1 @@
-# test_project
+Server & client application in the main folder.
